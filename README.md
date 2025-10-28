@@ -1,4 +1,4 @@
-# Meta Ad Performance Analysis (Power BI Project)
+# Meta Ad Performance Analysis 
 # 1. Project Overview
 
 The Meta Ad Performance Analysis Dashboard is an interactive analytics project designed to evaluate the effectiveness of advertising campaigns across Facebook and Instagram platforms.
