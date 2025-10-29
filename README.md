@@ -25,12 +25,19 @@ This holistic approach ensures data-driven marketing decisions by visualizing bo
 
 # 3. Key KPIs Tracked
 KPI	Description
+
 Impressions	Total number of times ads were displayed to users
+
 Clicks	Total number of user interactions with ads
+
 CTR (Click-Through Rate)	(Clicks ÷ Impressions) × 100 — measures ad attractiveness
+
 Engagement Rate	(Clicks + Comments + Shares) ÷ Impressions × 100 — measures audience interaction
+
 Conversion Rate	(Purchases ÷ Clicks) × 100 — indicates funnel efficiency
+
 Purchase Rate	(Purchases ÷ Impressions) × 100 — measures ad-to-sale effectiveness
+
 Total Budget	Total advertising spend for the campaign period
 
 Each KPI is dynamically calculated using DAX measures and represented through interactive visuals, allowing users to quickly identify strengths, weaknesses, and optimization opportunities across channels and demographics.
